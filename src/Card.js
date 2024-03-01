@@ -10,7 +10,7 @@ function Cards() {
         <Card.Body>
           <Card.Title className="text-center">Card 01</Card.Title>
           <Card.Text className="text-center">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniamgi
           </Card.Text>
         </Card.Body>
       </Card>
