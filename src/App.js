@@ -1,4 +1,3 @@
-
 import './App.css';
 import Navbar from './Navbar';
 import Cards from './Card'
@@ -13,6 +12,6 @@ function App() {
       <Cards />
     </div>
   );
-}
+  }
 
 export default App;
